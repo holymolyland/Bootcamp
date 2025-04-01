@@ -1,0 +1,54 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+h1 {
+    text-align: center;
+}
+.container {
+    background-color: #003049;
+    width: 90%;
+    height: 500px;
+    margin: 0 auto;
+
+    display: flex;
+    
+}
+
+.item1 {
+    height: 150px;
+    border-radius: 10px;
+    font-size: 100px;
+    align-self: auto;
+    flex-basis: auto;
+}
+
+.item2 {
+    height: 150px;
+    border-radius: 10px;
+    font-size: 100px;
+    align-self:center;
+    flex-basis: auto;
+}
+
+.item3 {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    font-size: 100px;
+    align-self:flex-start;
+}
+
+.item4 {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    font-size: 100px;
+    align-self: flex-end;
+}
+
+.item5 {
+    width: 150px;
+    border-radius: 10px;
+    font-size: 100px;
+    align-self: stretch;
+}
