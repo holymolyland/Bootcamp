@@ -1,0 +1,173 @@
+.desktop {
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    background-color: #f5f1e9;
+    overflow: hidden;
+  }
+  
+  .desktop .overlap-group {
+    width: 890px;
+    top: 612px;
+    left: 550px;
+    position: absolute;
+    height: 235px;
+  }
+  
+  .desktop .view {
+    display: flex;
+    flex-direction: column;
+    width: 445px;
+    align-items: flex-start;
+    gap: 10px;
+    position: absolute;
+    top: 0;
+    left: 445px;
+  }
+  
+  .desktop .h {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: var(--headline-1a-font-family);
+    font-weight: var(--headline-1a-font-weight);
+    color: var(--product-review-black);
+    font-size: var(--headline-1a-font-size);
+    text-align: center;
+    letter-spacing: var(--headline-1a-letter-spacing);
+    line-height: var(--headline-1a-line-height);
+    font-style: var(--headline-1a-font-style);
+  }
+  
+  .desktop .regular {
+    position: relative;
+    align-self: stretch;
+    font-family: var(--headline-3-font-family);
+    font-weight: var(--headline-3-font-weight);
+    color: var(--product-review-black);
+    font-size: var(--headline-3-font-size);
+    text-align: center;
+    letter-spacing: var(--headline-3-letter-spacing);
+    line-height: var(--headline-3-line-height);
+    font-style: var(--headline-3-font-style);
+  }
+  
+  .desktop .div {
+    display: inline-flex;
+    align-items: flex-end;
+    justify-content: center;
+    gap: 10px;
+    top: 0;
+    left: 0;
+    flex-direction: column;
+    position: absolute;
+  }
+  
+  .desktop .text-wrapper {
+    width: 496px;
+    position: relative;
+    margin-top: -1.00px;
+    font-family: var(--headline-1a-font-family);
+    font-weight: var(--headline-1a-font-weight);
+    color: var(--product-review-black);
+    font-size: var(--headline-1a-font-size);
+    text-align: center;
+    letter-spacing: var(--headline-1a-letter-spacing);
+    line-height: var(--headline-1a-line-height);
+    font-style: var(--headline-1a-font-style);
+  }
+  
+  .desktop .overlap {
+    width: 864px;
+    top: 261px;
+    left: 576px;
+    position: absolute;
+    height: 235px;
+  }
+  
+  .desktop .view-2 {
+    display: flex;
+    width: 445px;
+    align-items: flex-start;
+    gap: 10px;
+    top: 0;
+    left: 419px;
+    flex-direction: column;
+    position: absolute;
+  }
+  
+  .desktop .MBTI {
+    display: flex;
+    flex-direction: column;
+    width: 445px;
+    align-items: flex-start;
+    gap: 10px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .desktop .view-3 {
+    display: flex;
+    width: 522px;
+    align-items: flex-start;
+    gap: 24px;
+    top: 385px;
+    left: 21px;
+    flex-direction: column;
+    position: absolute;
+  }
+  
+  .desktop .h-2 {
+    position: relative;
+    width: 522px;
+    margin-top: -1.00px;
+    font-family: var(--headline-2-font-family);
+    font-weight: var(--headline-2-font-weight);
+    color: var(--product-review-black);
+    font-size: var(--headline-2-font-size);
+    letter-spacing: var(--headline-2-letter-spacing);
+    line-height: var(--headline-2-line-height);
+    font-style: var(--headline-2-font-style);
+  }
+  
+  .desktop .h-regular {
+    position: relative;
+    width: 522px;
+    font-family: var(--body-1-font-family);
+    font-weight: var(--body-1-font-weight);
+    color: var(--product-review-black);
+    font-size: var(--body-1-font-size);
+    letter-spacing: var(--body-1-letter-spacing);
+    line-height: var(--body-1-line-height);
+    font-style: var(--body-1-font-style);
+  }
+  
+  .desktop .text-wrapper-2 {
+    left: 3px;
+    position: absolute;
+    width: 208px;
+    top: 27px;
+    font-family: "Plus Jakarta Sans-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 39.6px;
+  }
+  
+  .desktop .text-wrapper-3 {
+    left: 1265px;
+    position: absolute;
+    width: 208px;
+    top: 27px;
+    font-family: "Plus Jakarta Sans-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 39.6px;
+  }
+  
